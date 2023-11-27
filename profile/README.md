@@ -12,3 +12,4 @@ WHUCAO，WHUCodingAndOpen，武大编程交流与开源社区。
 `WHUCAO`交流群：728342352  
 `WHUCAO`QQ频道：WHUOpenCode22  
 `WHUCAO`网站：[WHUCAODocs](https://whucodingandopen.github.io/whucao/)
+`OpenWHU`项目：[OpenWHU](https://github.com/openwhu/OpenWHU)
