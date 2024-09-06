@@ -9,7 +9,7 @@ WHUCAO，WHUCodingAndOpen，武大编程交流与开源社区。
 ⭐贡献有什么好处？
 贡献到一定程度会拉入`WHUCAO Contributors`群聊，适合部分内部资源的共享和交流，但是这部分资源也会同步到WHUCAO独立仓库（时间会较晚）。  
 
-`WHUCAO`交流群：728342352  
+`WHUCAO`交流群：699618411  
 `WHUCAO`QQ频道：WHUOpenCode22  
 `WHUCAO`网站：[WHUCAODocs](https://whucodingandopen.github.io/whucao/)  
 `OpenWHU`项目：[OpenWHU](https://github.com/openwhu/OpenWHU)
